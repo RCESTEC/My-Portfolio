@@ -1,9 +1,11 @@
 # My-Portfolio
 
+![Profilbillede](https://media.licdn.com/dms/image/v2/D4D03AQEDLJTu1mFDOg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1729774737574?e=1789603200&v=beta&t=dbqqY6eQsuaoRNQexOHHqxQDMUh1jl0lkgsOqPVKPUA)
 ## Introduktion
-Jeg hedder Robin, og jeg er datateknikker~lærling~ med speciale i programmering.
+Jeg hedder Robin, og jeg er datateknikker~lærling~ med speciale i programmering fra TEC.
 
 Her vil jeg vise et beskedent udvalg af mine forskellige IT-evner og -erfaringer frem.
+
 
 ## Ting jeg kan finde ud af
 Jeg kan f.eks. lave **Bold Text.**
@@ -25,6 +27,9 @@ Jeg kan også lave *ITALICS!*
 - [X] Upload ansøgninger til lærepladsen.dk
 
 - [ ] Bliv millionær
+
+Derudover så er jeg en totalt vild programmør, med *mad C#-skillz!*
+Check dem ud:
 
 ```
 {
