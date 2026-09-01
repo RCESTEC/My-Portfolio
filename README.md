@@ -1,2 +1,35 @@
 # My-Portfolio
-Here I will showcase all of my various IT related skills and experiences.
+
+## Introduktion
+Jeg hedder Robin, og jeg er datateknikker~lærling~ med speciale i programmering.
+
+Her vil jeg vise et beskedent udvalg af mine forskellige IT-evner og -erfaringer frem.
+
+## Ting jeg kan finde ud af
+Jeg kan f.eks. lave **Bold Text.**
+
+Jeg kan også lave *ITALICS!*
+
+### Nummereret liste
+1. skriv et tal
+2. sæt et punktum
+3. lav et mellemrum
+4. skriv tekst
+5. tryk "enter"
+6. lav en ny linje
+
+
+### Målsætning for ugen: 
+- [X] Lav GitHub-READme.md
+
+- [X] Upload ansøgninger til lærepladsen.dk
+
+- [ ] Bliv millionær
+
+```
+{
+  Console.WriteLine("Sådan her skriver vi tekst i et konsolprogram");
+}
+```
+
+Har man brug for hjælp til at lave et dokument som dette kan man finde GitHubs egen guide [her](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
